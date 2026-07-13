@@ -88,7 +88,7 @@ My work lies at the intersection of **computing, artificial intelligence, bioeng
 The project combined computational and clinical evaluation to explore reliable tools for supporting the early identification and prioritization of patients with retinal abnormalities.
 
 <details>
-<summary><b>🔎 View methods and research components</b></summary>
+<summary><b> View methods and research components</b></summary>
 
 <br>
 
@@ -122,7 +122,7 @@ The project combined computational and clinical evaluation to explore reliable t
 The overall aim is to assess the reliability of these approaches and their potential use in medical research and healthcare applications.
 
 <details>
-<summary><b>🔎 View general research scope</b></summary>
+<summary><b> View general research scope</b></summary>
 
 <br>
 
