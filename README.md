@@ -134,6 +134,7 @@ The overall aim is to assess the reliability of these approaches and their poten
 - Medical research and healthcare applications
 
 </details>
+
 ---
 
 ## 📄 Selected publications
@@ -157,6 +158,7 @@ The overall aim is to assess the reliability of these approaches and their poten
 </a>
 
 </div>
+
 ---
 
 
