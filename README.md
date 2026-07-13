@@ -32,7 +32,7 @@
 
 ## 👩🏻‍🔬 About me
 
-I am a **Bioengineer** and a **Master of Engineering with Honors**, and I will begin the **Doctoral Program in Science** at the **Universidad Autónoma de Baja California (UABC)** in August 2026.
+I am a **Bioengineer** and a **Master of Engineering with Honors**, and student in the **Doctoral Program in Science** at the **Universidad Autónoma de Baja California (UABC)**.
 
 My work lies at the intersection of **computing, artificial intelligence, bioengineering, and medicine**. I am interested in developing and evaluating computational methods for **medical image analysis**, with particular attention to their clinical relevance, reliability, and potential contribution to healthcare applications.
 
