@@ -70,7 +70,7 @@ My work lies at the intersection of **computing, artificial intelligence, bioeng
 
 </div>
 
-### 👁️ Master's thesis · 2024–2026
+### 🔍 Master's thesis · 2024–2026
 
 #### Automated Segmentation of Pathological Regions in Digital Fundus Images Using Artificial Intelligence
 
@@ -105,7 +105,7 @@ The project combined computational and clinical evaluation to explore reliable t
 
 ---
 
-### 🧠 Doctoral research · 2026–Present
+### 🔍 Doctoral research · 2026–Present
 
 #### Generative Models for Volumetric Medical Imaging
 
