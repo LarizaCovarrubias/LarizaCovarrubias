@@ -136,38 +136,27 @@ The overall aim is to assess the reliability of these approaches and their poten
 </details>
 ---
 
-## 📚 Selected publications
+## 📄 Selected publications
 
-### 2026
+> **2026** &nbsp;|&nbsp; **Evaluation Frameworks for Clinical Foundation Models in Specific Tasks of Unstructured Medical Text Analysis: A Scoping Review**  
+> *Healthcare*, **14**(13), 1865 &nbsp;·&nbsp; Co-author &nbsp;·&nbsp; [DOI: 10.3390/healthcare14131865](https://doi.org/10.3390/healthcare14131865)  
+> `Clinical Foundation Models` · `Unstructured Medical Text` · `Scoping Review`
 
-#### Evaluation Frameworks for Clinical Foundation Models in Specific Tasks of Unstructured Medical Text Analysis: A Scoping Review
+> **2025** &nbsp;|&nbsp; **Segmentation Algorithms in Fundus Images: A Review of Digital Image Analysis Techniques**  
+> *Applied Sciences*, **15**(21), 11324 &nbsp;·&nbsp; Co-author &nbsp;·&nbsp; [DOI: 10.3390/app152111324](https://doi.org/10.3390/app152111324)  
+> `Fundus Imaging` · `Image Segmentation` · `Medical Image Analysis`
 
-**Healthcare**, 14(13), 1865 · Co-author
+> **2025** &nbsp;|&nbsp; **Vision Transformers for the Segmentation of Patterns Associated to Pathology in Diabetic Retinopathy: A Literature Review and Clinical Relevance in Eye Fundus Images**  
+> *Studies in Computational Intelligence — Springer Nature* &nbsp;·&nbsp; First author &nbsp;·&nbsp; [DOI: 10.1007/978-3-031-85614-3_5](https://doi.org/10.1007/978-3-031-85614-3_5)  
+> `Vision Transformers` · `Diabetic Retinopathy` · `Clinical Relevance`
 
-[![DOI](https://img.shields.io/badge/DOI-10.3390%2Fhealthcare14131865-2575FC?style=flat-square)](https://doi.org/10.3390/healthcare14131865)
+<div align="center">
 
----
-
-### 2025
-
-#### Segmentation Algorithms in Fundus Images: A Review of Digital Image Analysis Techniques
-
-**Applied Sciences**, 15(21), 11324 · Co-author
-
-[![DOI](https://img.shields.io/badge/DOI-10.3390%2Fapp152111324-6A11CB?style=flat-square)](https://doi.org/10.3390/app152111324)
-
-#### Vision Transformers for the Segmentation of Patterns Associated to Pathology in Diabetic Retinopathy: A Literature Review and Clinical Relevance in Eye Fundus Images
-
-**Studies in Computational Intelligence — Springer Nature** · First author
-
-[![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--3--031--85614--3__5-7B2CBF?style=flat-square)](https://doi.org/10.1007/978-3-031-85614-3_5)
-
-<div align="right">
-
-[View all publications on Google Scholar →](https://scholar.google.com/citations?hl=es&user=f5BiZdcAAAAJ)
+<a href="https://scholar.google.com/citations?hl=es&user=f5BiZdcAAAAJ">
+  <img src="https://img.shields.io/badge/View%20all%20publications-Google%20Scholar-6A11CB?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar">
+</a>
 
 </div>
-
 ---
 
 
