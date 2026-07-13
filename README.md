@@ -2,7 +2,7 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:7B2CBF,100:2575FC&height=230&section=header&text=Betsaida%20Lariza%20Lopez%20Covarrubias&fontSize=35&fontColor=FFFFFF&fontAlignY=36&desc=Bioengineer%20%E2%80%A2%20Master%20of%20Engineering%20%E2%80%A2%20Incoming%20Doctoral%20Student%20in%20Science&descSize=14&descAlignY=57&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:7B2CBF,100:2575FC&height=230&section=header&text=Betsaida%20Lariza%20Lopez%20Covarrubias&fontSize=35&fontColor=FFFFFF&fontAlignY=36&desc=Bioengineer%20%E2%80%A2%20Master%20of%20Engineering%20%E2%80%A2%20Doctoral%20Student%20in%20Science&descSize=14&descAlignY=57&animation=fadeIn"
   alt="Betsaida Lariza López Covarrubias"
 />
 
